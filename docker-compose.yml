@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 14438288
-      API_HASH: 
-      BOT_TOKEN: 
-      SESSION: 
+      API_ID: 26957450
+      API_HASH: c82248cee35b0c9a9de4a5caf0c2ac9f
+      BOT_TOKEN: 5465761249:AAFYGRwBvPMTlH-OVlGPbH1RpSzpLnKhR4I
+      SESSION: AgAjAXdJu9EJDSdbvwqfztbBfhOb54z0j_uSU_eI3g9kUKLeRoRVz89bVV10dFIxSQLTSGIzb9tpSlY99xNEqyJ6LeyM9t46fuqiMydlqe8hMnnIa7Kl484E565Hpx9IVUqbWwNOSGPO_PfOY77Jyw27j8mnjKLDuVgHf-k1gLGW8BioQPEDvIlAn0GX6VAvSqt_FljK-QqrYcbq9d0InPzhNnPVTRh9uGnMlltFQnp6siVZcmDNO5Xu52COyZFkE-iR-_LBx9OjzAXNbGDG3TSw4u8ZIRdDgdhoVFYC5u8NgWRCTBCPMphLn31_GKHYRDgceLAqU7k3LfhJoVAcI_UWAAAAATvYpM4A
       FORCESUB: savecontenttempbot
-      AUTH: 
+      AUTH: 5299021006
