@@ -1,6 +1,4 @@
-#Github.com-Vasusen-code
 
-pip install --upgrade pip
 https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 ethon
 cryptg
